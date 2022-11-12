@@ -2,7 +2,7 @@
   "name": "parcel-project-template",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://FaridMK.github.io/project-JS-goit",
+  "homepage": "https://github.com/Kate3587/project-JS-goit.git",
   "scripts": {
     "start": "parcel src/*.html --open",
     "build": "parcel build src/*.html --public-url /project-JS-goit/"
